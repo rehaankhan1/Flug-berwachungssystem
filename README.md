@@ -1,6 +1,6 @@
 # Echtzeit-Flugüberwachungssystem
 
-[![N|Solid](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAANCAMAAADL710yAAAAYFBMVEX///8AAAD6+vq2trb39/fLy8vj4+OsrKzW1tb09PTS0tJCQkJISEjHx8fq6uqfn583NzcUFBSHh4dWVlZPT099fX2/v7/c3Nxra2umpqaSkpIsLCwaGhomJiZfX19kZGQdlndDAAABDUlEQVQokZ1S23aDMAyTEggEaLmUcmu7/f9fTob2oWeUcza/JHGsyJIDAK6+NP0S8ddIuUV2UJP7nZyBuuVG7ly+Ym5+51qyTbReSQckefQJhnxlcWN0OYYUyHrnR+WiL4DCYQxroyrrgDtnJfl48KtS3x0r8nQmS/bIWp1qFZe8oJwSQWryhtCwU+VkjTuoYqkiA4IBB4Anz6g3YWo4ODZXUUkgMNwT9dobEHgMai3VBgbU8l37cj2ZmMkopE2MtZISwI1RQI/siDFZGaVxNo9iw00j7Fouvmmc+abRsTBXpzT1kw1ldVXsEXF8uqpWzdVziD68XE0dQnjOcY29OQZ+Hu7hz4nLZ+D//uoPimELwYIDeCoAAAAASUVORK5CYII=)](https://www.mapbox.com/) [![N|Solid](https://github.com/rehaankhan1/Flug-berwachungssystem/assets/20107730/98339054-d8e9-4516-b403-9915406cc8a0)](https://aviation-edge.com/)
+[![N|Solid](https://github.com/rehaankhan1/Flug-berwachungssystem/assets/20107730/2a0fdec4-2041-4477-a23d-bc5fa0c53fdf)](https://www.mapbox.com/) [![N|Solid](https://github.com/rehaankhan1/Flug-berwachungssystem/assets/20107730/98339054-d8e9-4516-b403-9915406cc8a0)](https://aviation-edge.com/)
 
 
 Mit der Map-Box API und der Aviation Edge API in Python entwickle ich ein fortschrittliches System zur Live-Visualisierung von Flugrouten. Diese Integration ermöglicht genaue und aktuelle Flugbewegungsdaten auf einer interaktiven Mappe, ideal für Luftfahrtenthusiasten und -profis zur Überwachung und Analyse von Flugverkehrsdaten.
